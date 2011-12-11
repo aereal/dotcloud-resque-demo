@@ -1,0 +1,7 @@
+---
+www:
+  type: ruby
+db:
+  type: redis
+worker:
+  type: ruby-worker
